@@ -7,7 +7,9 @@ You can play and interact with the build directly in your web browser here:
 👉 **[Play on itch.io](https://ruin0105.itch.io/solar-system-ruin)**
 
 ---
+<img width="1885" height="927" alt="image" src="https://github.com/user-attachments/assets/268813bb-9c43-46d1-bd47-853be9f8d24a" />
 
+---
 ## 🌌 Features
 * **Orbital Mechanics:** Realistic hierarchical rotation (planets rotating on their axes while orbiting a central star).
 * **3D Viewport:** Interactive camera allowing players to survey the scale of the system.
